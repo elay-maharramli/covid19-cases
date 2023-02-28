@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1674e5d.css",
+    "main.js": "/static/js/main.bea1495d.js",
+    "static/media/covid19.png": "/static/media/covid19.eac284943b44d1b71cde.png",
+    "index.html": "/index.html",
+    "main.f1674e5d.css.map": "/static/css/main.f1674e5d.css.map",
+    "main.bea1495d.js.map": "/static/js/main.bea1495d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1674e5d.css",
+    "static/js/main.bea1495d.js"
+  ]
+}
